@@ -56,6 +56,6 @@ public class Project{
     }
 
     public void setCost(double cost){
-        this.initialCost = initialCost;
+        this.initialCost = cost;
     }
 }

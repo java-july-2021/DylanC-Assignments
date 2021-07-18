@@ -19,6 +19,7 @@ public class ProjectTest{
         System.out.println(project3.elevatorPitch());
 
         Project project4 = new Project("Avery", "what is an elevator?", 5.14);
+        project4.setCost(5.17);
         System.out.println(project4.elevatorPitch());
     }
 }
