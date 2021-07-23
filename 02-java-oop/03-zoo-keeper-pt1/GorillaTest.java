@@ -8,5 +8,6 @@ public class GorillaTest{
         tarzan.eatBanana();
         tarzan.eatBanana();
         tarzan.climb();
+        tarzan.energyLevel();
     }
 }

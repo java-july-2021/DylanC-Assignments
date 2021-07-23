@@ -28,7 +28,7 @@ public class Project{
         this.initialCost = 0;
     }
 
-    public Project (String name, String description, double cost){
+    public Project(String name, String description, double cost){
         this.name = name ;
         this.description = description;
         this.initialCost = cost;
