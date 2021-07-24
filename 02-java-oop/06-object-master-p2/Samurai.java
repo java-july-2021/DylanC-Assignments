@@ -2,7 +2,7 @@ public class Samurai extends Human{
     private static int numSamurai = 0;
 
     public Samurai(){
-        this.health = 200;
+        super(200, 3);
         numSamurai++;
     }
 

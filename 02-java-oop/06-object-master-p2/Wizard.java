@@ -1,6 +1,6 @@
 public class Wizard extends Human{
     public Wizard(){
-        this.health = 50;
+        super(50, 3);
         this.intelligence= 8;
     }
 
