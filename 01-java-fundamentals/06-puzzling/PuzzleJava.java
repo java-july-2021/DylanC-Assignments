@@ -108,6 +108,7 @@ public class PuzzleJava{
             arrayOfStrings.add(new buildString());
         }
         System.out.println(arrayOfStrings);
+
     }*/
     public void arrayRandomStrings(){
         String[] myStringsArray = new String[10];
